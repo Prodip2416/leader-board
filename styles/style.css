@@ -1,0 +1,9 @@
+.navbar img{
+    width: 40px;
+}
+.navbar-brand span{
+    color: white;
+}
+.navbar-nav:hover li{
+ color: white;
+}
